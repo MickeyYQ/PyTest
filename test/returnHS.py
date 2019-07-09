@@ -11,3 +11,8 @@ def sum(arg1, arg2):
 
 # 调用sum函数
 total = sum(10, 20);
+
+def nop():
+    pass
+
+a = nop();
